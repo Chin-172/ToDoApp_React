@@ -28,6 +28,7 @@ npm start
 Now you can see the project show as below 👇
 ![image](https://user-images.githubusercontent.com/63136573/178989810-7ca4c74d-2612-49ba-9013-0b6aa35936bd.png)
 
-More interactive UI elements are updated in this time 🎉
+More interactive UI elements are updated in this time 🎉<br>
 Click `Done` Button and `Delete` Button to checkout the effect.
 
+![](demo.gif)
